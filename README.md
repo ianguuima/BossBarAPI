@@ -18,3 +18,7 @@ Dependency:
   <version>2.4.3-SNAPSHOT</version>
 </dependency>
 ```
+
+### Extras
+
+API original link: https://www.spigotmc.org/resources/api-bossbarapi-1-7-1-8-1-9-1-10.7504/
