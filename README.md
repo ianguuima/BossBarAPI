@@ -15,7 +15,7 @@ Dependency:
 <dependency>
   <groupId>com.github.ianguuima</groupId>
   <artifactId>BossBarAPI</artifactId>
-  <version>2.4.3-SNAPSHOT</version>
+  <version>2edbc72a70</version>
 </dependency>
 ```
 
