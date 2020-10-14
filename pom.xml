@@ -30,7 +30,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.inventivetalent</groupId>
     <artifactId>bossbarapi</artifactId>
-    <version>2.4.3-SNAPSHOT</version>
+    <version>2.4.4-SNAPSHOT</version>
     <name>BossBarAPI</name>
     <build>
         <finalName>BossBarAPI_v${project.version}</finalName>
@@ -114,16 +114,19 @@
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
             <version>1.12.2-R0.1-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.inventivetalent</groupId>
             <artifactId>reflectionhelper</artifactId>
             <version>1.14.3-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.inventivetalent</groupId>
             <artifactId>apimanager</artifactId>
             <version>1.0.3-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
   
